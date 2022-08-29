@@ -19,10 +19,12 @@ body {
 
 h2 {
   color: hsl(0, 0%, 100%);
+  margin: 25px;
 }
 
 p {
   color: hsl(215, 51%, 70%);
+  margin: 25px;
 }
 .container {
   background-color: hsl(217, 54%, 11%);
