@@ -33,6 +33,12 @@ hr {
   border-color: hsl(215, 32%, 27%);
 }
 
+img {
+  border: 1px solid white;
+  border-radius: 50%;
+  margin-left: 25px;
+  margin-top: 25px;
+}
 .container {
   background-color: hsl(217, 54%, 11%);
   width: 375px;
@@ -82,4 +88,9 @@ hr {
 .hr {
   display: flex;
   justify-content: center;
+}
+
+.img-avatar {
+  display: flex;
+  flex-direction: row;
 }
