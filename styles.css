@@ -33,7 +33,7 @@ hr {
   border-color: hsl(215, 32%, 27%);
 }
 
-img {
+.img-main {
   border: 1px solid white;
   border-radius: 50%;
   margin-left: 25px;
@@ -72,10 +72,12 @@ img {
 
 .eth {
   color: hsl(178, 100%, 50%);
+  line-height: 18px;
 }
 
 .days {
   color: hsl(215, 51%, 70%);
+  line-height: 18px;
 }
 
 .cost {
@@ -93,4 +95,14 @@ img {
 .img-avatar {
   display: flex;
   flex-direction: row;
+}
+
+.clock {
+  border: none;
+  margin-right: 5px;
+}
+
+.icon {
+  border: none;
+  margin-right: 5px;
 }
