@@ -17,6 +17,13 @@ body {
   font-size: 18px;
 }
 
+h2 {
+  color: hsl(0, 0%, 100%);
+}
+
+p {
+  color: hsl(215, 51%, 70%);
+}
 .container {
   background-color: hsl(217, 54%, 11%);
   width: 375px;
@@ -42,4 +49,8 @@ body {
   border-radius: 15px;
   width: 275px;
   height: 275px;
+}
+
+.name {
+  color: hsl(0, 0%, 100%);
 }
