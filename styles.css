@@ -70,6 +70,10 @@ hr {
   color: hsl(0, 0%, 100%);
 }
 
+.name:hover {
+  cursor: pointer;
+}
+
 .eth {
   color: hsl(178, 100%, 50%);
   line-height: 18px;
@@ -95,6 +99,10 @@ hr {
 .img-avatar {
   display: flex;
   flex-direction: row;
+}
+
+.img-avatar p {
+  margin-left: 9px;
 }
 
 .clock {
