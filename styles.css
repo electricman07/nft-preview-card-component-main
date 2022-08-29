@@ -15,3 +15,9 @@
 body {
   font-family: "Outfit", sans-serif;
 }
+
+.card {
+  background-color: hsl(217, 54%, 11%);
+  width: 350px;
+  height: 600px;
+}
