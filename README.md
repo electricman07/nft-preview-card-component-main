@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Link to source code here](https://https://github.com/electricman07/nft-preview-card-component-main)
-- Live Site URL: [link to live site here](https://your-live-site-url.com)
+- Live Site URL: [link to live site here](https://nft-preview-card-component-wheat-tau.vercel.app/)
 
 ## My process
 
