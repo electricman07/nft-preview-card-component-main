@@ -13,8 +13,6 @@
 }
 
 body {
-  background-color: hsl(217, 54%, 11%);
-
   font-family: "Outfit", sans-serif;
   font-size: 18px;
   font-weight: 300;
@@ -43,6 +41,7 @@ hr {
   margin-top: 25px;
 }
 .container {
+  background-color: hsl(217, 54%, 11%);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
