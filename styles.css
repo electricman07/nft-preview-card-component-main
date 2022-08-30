@@ -114,3 +114,8 @@ hr {
   border: none;
   margin-right: 5px;
 }
+
+.hover:hover {
+  cursor: pointer;
+  color: hsl(178, 100%, 50%);
+}
